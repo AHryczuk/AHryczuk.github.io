@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "A. Hryczuk"
 title_separator          : "-"
 name                     : &name "Andrzej Hryczuk"
-description              : &description "Theoretical (astro-)particle physicist at NCBJ"
+description              : &description "Theoretical (astro-)particle physicist at [NCBJ](http://ncbj.gov.pl/en)"
 url                      : https://ahryczuk.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ahryczuk/academicpages.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Andrzej Hryczuk"
   avatar           : "profile.png"
-  bio              : "Theoretical (astro-)particle physicist at NCBJ"
+  bio              : "Theoretical (astro-)particle physicist at [NCBJ](http://ncbj.gov.pl/en)"
   location         : "Warsaw, Poland"
   employer         :
   pubmed           :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ahryczuk"
+#  github           : "ahryczuk"
   google_plus      :
   keybase          :
   instagram        :
@@ -106,11 +106,11 @@ author:
   orcid            : "http://orcid.org/0000-0002-3513-1794"
   pinterest        :
   soundcloud       :
-  stackoverflow    : "https://mathematica.stackexchange.com/users/79522/andrzej"
+#  stackoverflow    : "https://mathematica.stackexchange.com/users/79522/andrzej"
   stackexchange    : "https://mathematica.stackexchange.com/users/79522/andrzej"
   steam            :
   tumblr           :
-  twitter          : "AndrzejHryczuk"
+#  twitter          : "AndrzejHryczuk"
 #  vine             :
 #  weibo            :
 #  xing             :
