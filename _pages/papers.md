@@ -297,11 +297,11 @@ PoS EPS-HEP2019 (2020) 089
 
 **Dark Matter Relic Density Revisited: The Case For Early Kinetic Decoupling**  <br>
 _T. Binder, T. Bringmann, M. Gustafsson, A. Hryczuk_  <br>
-Contribution to Moriond EW 2018 [arXiv:1805.00526 [hep-ph]]
+Contribution to Moriond EW 2018 [arXiv:1805.00526](https://arxiv.org/abs/1805.00526)
 
 **Science with e-ASTROGAM (A space mission for MeV-GeV gamma-ray astrophysics)**  <br>
 _A. Hryczuk in A. De Angelis et al._  <br>
-JHEAp 19 (2018) 1-106 [arXiv:1711.01265 [astro-ph.HE]]
+JHEAp 19 (2018) 1-106 [arXiv:1711.01265](https://arxiv.org/abs/1711.01265)
 
 **Optical Search for QED Vacuum Magnetic Birefringence, Axions and Photon Regeneration**  <br>
 _A. Hryczuk in P. Pugnat et al._  <br>
