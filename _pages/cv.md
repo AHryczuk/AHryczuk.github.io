@@ -11,9 +11,11 @@ redirect_from:
 
 Full CV can be dowloaded [here](http://academicpages.github.io/files/CV.pdf) {: .btn} _(updated Dec. 2021)_
 
+This is an example of a [link](http://github.com "Github").
+
 Education
 ======
-* 2007 - M.S. at **Warsaw University**, Poland
+* 2007 - M.S. at **University of Warsaw**, Poland
 * 2012 - Ph.D. at **SISSA** (International School for Advanced Studies), Trieste, Italy
 
 
