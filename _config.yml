@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=Zy1385kAAAAJ&hl=pl"
-  email            :  "andrzej.hryczuk (at) ncbj.gov.pl"
+  email            :  "andrzej.hryczuk@ncbj.gov.pl"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -106,7 +106,7 @@ author:
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : "https://mathematica.stackexchange.com/users/79522/andrzej"
   steam            :
   tumblr           :
   twitter          : "AndrzejHryczuk"
@@ -115,8 +115,8 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  stackexchange    : "https://mathematica.stackexchange.com/users/79522/andrzej"  
-
+  stackexchange    : "https://mathematica.stackexchange.com/users/79522/andrzej"
+  lichess          : "https://lichess.org/@/axinko"
 
 # Reading Files
 include:
