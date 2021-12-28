@@ -8,4 +8,6 @@ redirect_from:
   - /about.html
 ---
 
+Hi, welcome! I'm a physicist focused on astroparticle theory and in particular all dark matter related.
+
 Under construction...
