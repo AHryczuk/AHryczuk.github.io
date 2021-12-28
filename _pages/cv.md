@@ -9,9 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Full CV can be dowloaded [here](http://academicpages.github.io/files/CV.pdf) {: .btn} _(updated Dec. 2021)_
-
-This is an example of a [link](http://github.com "Github").
+Full CV can be dowloaded [here](http://ahryczuk.github.io/files/CV.pdf) _(updated Dec. 2021)_
 
 Education
 ======
@@ -22,7 +20,7 @@ Education
 Work experience
 ======
 * July 2006 - Sep. 2006: _Internship_ at **CERN** in the OSQAR Collaboration, Geneva, Switzerland
-* Nov. 2008 - Oct. 2010: _Early Stage Researcher_, Marie Curie Research Training Network ”UniverseNet”, **SISSA and INFN**, Trieste, Italy
+* Nov. 2008 - Oct. 2010: _Early Stage Researcher_, MC Research Training Network ”UniverseNet”, **SISSA and INFN**, Trieste, Italy
 * Oct. 2012 - Aug. 2015: _Postdoctoral Fellow_, **TUM, Munich, Germany**
 * Sep. 2015 - Nov. 2015: _Postdoctoral Fellow_, **NCBJ**, Warsaw, Poland
 * Dec. 2015 - Nov. 2018: _Postdoctoral Fellow_, **University of Oslo**, Norway
