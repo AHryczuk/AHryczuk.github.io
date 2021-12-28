@@ -103,18 +103,18 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0000-0002-3513-1794"
   pinterest        :
   soundcloud       :
   stackoverflow    : "https://mathematica.stackexchange.com/users/79522/andrzej"
   steam            :
   tumblr           :
   twitter          : "AndrzejHryczuk"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
+#  vine             :
+#  weibo            :
+#  xing             :
+#  youtube          :
+#  wikipedia        :
   stackexchange    : "https://mathematica.stackexchange.com/users/79522/andrzej"
   lichess          : "https://lichess.org/@/axinko"
   inspire          : "https://inspirehep.net/authors/1078224?ui-citation-summary=true"
