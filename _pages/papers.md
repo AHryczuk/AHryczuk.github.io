@@ -15,14 +15,14 @@ author_profile: true
 Dark matter freeze-in from semi-production
 ------
 
-A. Hryczuk, M. Laletin <br>
+_A. Hryczuk, M. Laletin_ <br>
 JHEP 06 (2021) 026 [arXiv:2104.05684](https://arxiv.org/2104.05684)
-
-<div>
-    <p style="float: right;"><img src="http://ahryczuk.github.io/files/Y_semi.pdf" height="300px" width="300px" border="1px"></p>
-    <p> In this paper </p>
-</div>
-
+<p>
+ <div>
+    <p style="float: right;"><img src="http://ahryczuk.github.io/files/Y_semi.pdf" height="280px" width="280px" border="1px"></p>
+    <p> In this paper................................................................................................................................................................................................................................................................................................................................................................................ </p>
+ </div>
+</p>
 
 
 
