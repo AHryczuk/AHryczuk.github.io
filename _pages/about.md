@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a physicist working at National Centre for Nuclear Research in Poland.
+I'm a physicist working at National Centre for Nuclear Research (NCBJ) in Poland.
 
 My research focuses on (astro-)particle theory and in particular all things **dark matter** related.
 

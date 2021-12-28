@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Andrzej Hryczuk"
+title                    : "Andrzej's webpage"
 title_separator          : "-"
 name                     : &name "Andrzej Hryczuk"
-description              : &description "Theoretical (astro-)particle physicist. Researcher at NCBJ"
+description              : &description "Theoretical (astro-)particle physicist at NCBJ"
 url                      : https://ahryczuk.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ahryczuk/academicpages.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Andrzej Hryczuk"
   avatar           : "profile.png"
-  bio              : "Theoretical (astro-)particle physicist. Researcher at NCBJ"
+  bio              : "Theoretical (astro-)particle physicist at NCBJ"
   location         : "Warsaw, Poland"
   employer         :
   pubmed           :
@@ -117,6 +117,7 @@ author:
   wikipedia        :
   stackexchange    : "https://mathematica.stackexchange.com/users/79522/andrzej"
   lichess          : "https://lichess.org/@/axinko"
+  inspire          : "https://inspirehep.net/authors/1078224?ui-citation-summary=true"
 
 # Reading Files
 include:
