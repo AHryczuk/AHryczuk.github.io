@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Welcome!"
 excerpt: "About me"
 author_profile: true
 redirect_from:
@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Hi, welcome! I'm a physicist focused on astroparticle theory and in particular all dark matter related.
+I'm a physicist working at National Centre for Nuclear Research in Poland. My research focuses on (astro-)particle theory and in particular all things **dark matter** related.
 
-Under construction...
+Welcome to my webspace!
