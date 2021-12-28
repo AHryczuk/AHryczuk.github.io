@@ -135,10 +135,11 @@ Phys.Rev D96 (2017) no.11 115010 [arXiv:1706.07433](https://arxiv.org/abs/1706.0
  </div>
 </p>
 
-xxxxxx
+
+The last refuge of mixed wino-Higgsino dark matter
 ------
-_ _ <br>
-[arXiv:xxxxxx](https://arxiv.org/abs/xxxxxx)
+_M. Beneke, A. Bharucha, A. Hryczuk, S. Recksiegel, P. Ruiz-Femenia_ <br>
+JHEP 1701 (2017) 002 [arXiv:1611.00804](https://arxiv.org/abs/1611.00804)
 
 <p>
  <div>
@@ -150,10 +151,10 @@ _ _ <br>
  </div>
 </p>
 
-xxxxxx
+Novel Spectral Features in MeV Gamma Rays from Dark Matter
 ------
-_ _ <br>
-[arXiv:xxxxxx](https://arxiv.org/abs/xxxxxx)
+_T. Bringmann, A. Galea, A. Hryczuk, Ch. Weniger_ <br>
+Phys.Rev D95 (2017) no.4 043002  [arXiv:1610.04613](https://arxiv.org/abs/1610.04613)
 
 <p>
  <div>
@@ -165,10 +166,10 @@ _ _ <br>
  </div>
 </p>
 
-xxxxxx
+Finite-temperature modification of heavy particle decay and dark matter annihilation
 ------
-_ _ <br>
-[arXiv:xxxxxx](https://arxiv.org/abs/xxxxxx)
+_M. Beneke, F. Dighera, A. Hryczuk_ <br>
+JHEP 1609 (2016) 031 [arXiv:1607.03910](https://arxiv.org/abs/1607.03910)
 
 <p>
  <div>
@@ -180,10 +181,10 @@ _ _ <br>
  </div>
 </p>
 
-xxxxxx
+Relic density of wino-like dark matter in the MSSM
 ------
-_ _ <br>
-[arXiv:xxxxxx](https://arxiv.org/abs/xxxxxx)
+_M. Beneke, A. Bharucha, F. Dighera, C. Hellmann, A. Hryczuk, S. Recksiegel, P. Ruiz-Femenia_ <br>
+ JHEP 1603 (2016) 119 [arXiv:1601.04718](https://arxiv.org/abs/1601.04718)
 
 <p>
  <div>
@@ -195,10 +196,11 @@ _ _ <br>
  </div>
 </p>
 
-xxxxxx
+
+Relic density computations at NLO: infrared finiteness and thermal correction
 ------
-_ _ <br>
-[arXiv:xxxxxx](https://arxiv.org/abs/xxxxxx)
+_M. Beneke, F. Dighera, A. Hryczuk_ <br>
+JHEP 1410 (2014) 045 [arXiv:1409.3049](https://arxiv.org/abs/1409.3049)
 
 <p>
  <div>
@@ -210,10 +212,10 @@ _ _ <br>
  </div>
 </p>
 
-xxxxxx
+Indirect Detection Analysis: Wino Dark Matter Case Study
 ------
-_ _ <br>
-[arXiv:xxxxxx](https://arxiv.org/abs/xxxxxx)
+_I. Cholis, A. Hryczuk, R. Iengo, P. Ullio and M. Tavakoli_ <br>
+ JCAP 1407 (2014) 031 [arXiv:1401.6212](https://arxiv.org/abs/1401.6212)
 
 <p>
  <div>
@@ -225,10 +227,11 @@ _ _ <br>
  </div>
 </p>
 
-xxxxxx
+
+The one-loop and Sommerfeld electroweak corrections to the Wino dark matter annihilation
 ------
-_ _ <br>
-[arXiv:xxxxxx](https://arxiv.org/abs/xxxxxx)
+_A. Hryczuk, R. Iengo_ <br>
+JHEP 1201 (2012) 163, Erratum-ibid. 1206 (2012) 137 [arXiv:1111.2916](https://arxiv.org/abs/1111.2916)
 
 <p>
  <div>
@@ -240,10 +243,11 @@ _ _ <br>
  </div>
 </p>
 
-xxxxxx
+
+The Sommerfeld enhancement for scalar particles and application to sfermion co-annihilation regions
 ------
-_ _ <br>
-[arXiv:xxxxxx](https://arxiv.org/abs/xxxxxx)
+_A. Hryczuk_ <br>
+Phys. Lett. B699 (2011) 271-275 [arXiv:1102.4295](https://arxiv.org/abs/1102.4295)
 
 <p>
  <div>
@@ -255,10 +259,10 @@ _ _ <br>
  </div>
 </p>
 
-xxxxxx
+Relic densities including Sommerfeld enhancements in the MSSM
 ------
-_ _ <br>
-[arXiv:xxxxxx](https://arxiv.org/abs/xxxxxx)
+_A. Hryczuk, R. Iengo, P. Ullio_ <br>
+JHEP 1103 (2011) 069 [arXiv:1010.2172](https://arxiv.org/abs/1010.2172)
 
 <p>
  <div>
@@ -270,17 +274,34 @@ _ _ <br>
  </div>
 </p>
 
-xxxxxx
-------
-_ _ <br>
-[arXiv:xxxxxx](https://arxiv.org/abs/xxxxxx)
-
 <p>
- <div>
-    <p style="float: right;"><img src="http://ahryczuk.github.io/files/xxxxxx.pdf" height="280px" width="280px" border="1px"></p>
-    <p>
 
-    In this paper.................. ............. ........... .................. .................... ................. ..................... ................... ....................... ......................... .............. ............ ......................... .................. .................... ................... ............ ................... ................. ............ ................ ................ ............ ............... ................. ............ ............... ................. ............ ............... ................... ................... ............ ................... ................. ............ ................ ................ ............ ............... ................. ............ ............... ................. ............ ...............
-    </p>
- </div>
 </p>
+
+Contributing Author Publications & Proceedings
+====
+
+Non-equilibrium Effects in the Evolution of Dark Matter <br>
+A. Hryczuk  <br>
+Acta Phys. Pol. B Proc. Suppl. 13, 725 (2020)
+
+Forbidden Freeze-in  <br>
+L. Darme, A. Hryczuk, D. Karamitros, L. Roszkowski  <br>
+ Acta Phys. Pol. B Proc. Suppl. 13, 733 (2020)
+
+
+Phase transitions and gravitational waves in models of ZN scalar dark matter  <br>
+ N. Benincasa, K. Kannike, A. Hektor, A. Hryczuk, K. Loos  <br>
+PoS EPS-HEP2019 (2020) 089
+
+Dark Matter Relic Density Revisited: The Case For Early Kinetic Decoupling  <br>
+T. Binder, T. Bringmann, M. Gustafsson, A. Hryczuk  <br>
+Contribution to Moriond EW 2018 [arXiv:1805.00526 [hep-ph]]
+
+Science with e-ASTROGAM (A space mission for MeV-GeV gamma-ray astrophysics)  <br>
+A. Hryczuk in A. De Angelis et al.  <br>
+JHEAp 19 (2018) 1-106 [arXiv:1711.01265 [astro-ph.HE]]
+
+Optical Search for QED Vacuum Magnetic Birefringence, Axions and Photon Regeneration  <br>
+A. Hryczuk in P. Pugnat et al.  <br>
+CERN-SPSC-2006-035 (Nov 2006)
