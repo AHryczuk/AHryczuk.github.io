@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Full CV can be dowloaded [here](http://academicpages.github.io/files/cv.pdf) _(updated Dec. 2021)_
+Full CV can be dowloaded [here](http://academicpages.github.io/files/CV.pdf) {: .btn} _(updated Dec. 2021)_
 
 Education
 ======
