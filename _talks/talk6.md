@@ -1,11 +1,11 @@
 ---
-title: "Self-interacting DM and the H_0 tension"
+title: "Heavy WIMPs: status and future prospects"
 collection: talks
 type: "Conference talk"
 permalink: /files/xxxxxxxx.pdf
-venue: "SAFIR DM workshop (online)"
-date: 2020-12-04
-location: "Sao Paolo, Brazil (online)"
+venue: "Rencontres du Vietnam"
+date: 2020-01-09
+location: "Quy Nhon, Vietnam"
 ---
 
-Talk at the [3rd South American Dark Matter Workshop ](https://www.ictp-saifr.org/dmw2020/) organized at the ICTP South American Institute for Fundamental Research (ICTP-SAIFR).
+Invited plenary talk at the [Theory meeting experiments (TMEX-2020)](http://vietnam.in2p3.fr/2020/tmex/overview.php) conference within the Rencontres du Vietnam series.
