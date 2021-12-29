@@ -1,0 +1,26 @@
+---
+layout: archive
+title: "Projects"
+permalink: /projects/
+author_profile: true
+---
+
+{% include base_path %}
+
+DRAKE
+------
+<p>
+ <div>
+    <p style="float: left;"><a href=http://ahryczuk.github.io/pages/drake.html"><img src="http://ahryczuk.github.io/files/DRAKE-logo.pdf" height="280px" width="280px" border="1px"></a></p>
+ </div>
+</p>
+
+
+
+
+
+# DRAKE
+
+# SONATA
+
+# DarkSE
