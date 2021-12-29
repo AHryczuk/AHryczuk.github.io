@@ -85,39 +85,20 @@ author:
   bio              : "Theoretical (astro-)particle physicist at National Centre for Nuclear Research"
   location         : "Warsaw, Poland"
   employer         :
-  pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=Zy1385kAAAAJ&hl=pl"
   email            :  "andrzej.hryczuk@ncbj.gov.pl"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
 #  github           : "ahryczuk"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
   linkedin         :
   orcid            : "http://orcid.org/0000-0002-3513-1794"
-  pinterest        :
-  soundcloud       :
 #  stackoverflow    : "https://mathematica.stackexchange.com/users/79522/andrzej"
   stackexchange    : "https://mathematica.stackexchange.com/users/79522/andrzej"
-  steam            :
-  tumblr           :
 #  twitter          : "AndrzejHryczuk"
-#  vine             :
-#  weibo            :
-#  xing             :
 #  youtube          :
 #  wikipedia        :
   lichess          : "https://lichess.org/@/axinko"
-  inspire          : "https://inspirehep.net/authors/1078224?ui-citation-summary=true"
+  inspirehep       : "https://inspirehep.net/authors/1078224?ui-citation-summary=true"
 
 # Reading Files
 include:
