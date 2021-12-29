@@ -92,13 +92,12 @@ author:
 #  github           : "ahryczuk"
   linkedin         :
 #  orcid            : "http://orcid.org/0000-0002-3513-1794"
-#  stackoverflow    : "https://mathematica.stackexchange.com/users/79522/andrzej"
+  inspirehep       : "https://inspirehep.net/authors/1078224?ui-citation-summary=true"
   stackexchange    : "79522/andrzej"
   twitter          : "AndrzejHryczuk"
 #  youtube          :
 #  wikipedia        :
   lichess          : "https://lichess.org/@/axinko"
-  inspirehep       : "https://inspirehep.net/authors/1078224?ui-citation-summary=true"
 
 # Reading Files
 include:
