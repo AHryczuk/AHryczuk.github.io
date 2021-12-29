@@ -13,7 +13,7 @@ redirect_from:
 
 </p>
 
-I'm a physicist working at National Centre for Nuclear Research [NCBJ](http://ncbj.gov.pl/en) in Poland. My research focuses on (astro-)particle theory and in particular all things **dark matter** related.
+I'm a physicist working at National Centre for Nuclear Research ([NCBJ](http://ncbj.gov.pl/en)) in Poland. My research focuses on (astro-)particle theory and in particular all things **dark matter** related.
 
 Here you'll find some information regarding myself and my research:
 * In [Projects](http://ahryczuk.github.io/projects) description of research endeavours

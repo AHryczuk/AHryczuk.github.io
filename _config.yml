@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "A. Hryczuk"
 title_separator          : "-"
 name                     : &name "Andrzej Hryczuk"
-description              : &description "Theoretical (astro-)particle physicist at NCBJ"
+description              : &description "Theoretical (astro-)particle physicist at National Centre for Nuclear Research"
 url                      : https://ahryczuk.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ahryczuk/academicpages.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Andrzej Hryczuk"
   avatar           : "ja_Wawa.png"
-  bio              : "Theoretical (astro-)particle physicist at NCBJ"
+  bio              : "Theoretical (astro-)particle physicist at National Centre for Nuclear Research"
   location         : "Warsaw, Poland"
   employer         :
   pubmed           :
