@@ -119,7 +119,10 @@
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i> Wikipedia</a></li>
 {% endif %}
 {% if author.stackexchange %}
-  <li><a href="https://www.stackexchange.com/users/{{ author.stackexchange }}"><i class="fab fa-fw fa-stack-overflow" aria-hidden="true"></i> Stackexchange</a></li>
+  <li><a href="https://www.mathematica.stackexchange.com/users/{{ author.stackexchange }}"><i class="fab fa-fw fa-stack-overflow" aria-hidden="true"></i> Stackexchange</a></li>
+{% endif %}
+{% if author.inspirehep %}
+  <li><a href="https://lichess.org/@/axinko"><i class="fa-var-chess-knight" aria-hidden="true"></i> iNSPIRE </a></li>
 {% endif %}
 {% if author.inspirehep %}
   <li><a href="https://inspirehep.net/authors/1078224?ui-citation-summary=true"><i class="fas fa-fw fa-link" aria-hidden="true"></i> iNSPIRE </a></li>
