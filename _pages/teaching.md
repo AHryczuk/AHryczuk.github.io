@@ -20,6 +20,7 @@ author_profile: true
  </div>
 </p>
 
+[3rd South American Dark Matter Workshop ](https://www.ictp-saifr.org/dmw2020/)
 
 
 
