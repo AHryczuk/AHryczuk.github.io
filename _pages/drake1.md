@@ -4,7 +4,7 @@ title: "DRAKE"
 excerpt: ""
 author_profile: true
 redirect_from:
-  - "/drake.html"
+  - "/drake1.html"
 ---
 
 
