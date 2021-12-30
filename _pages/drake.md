@@ -3,7 +3,9 @@ permalink: /drake/
 title: "DRAKE"
 excerpt: ""
 author_profile: true
-
+redirect_from:
+  - "/test/"
+  - "/test.html"
 ---
 
 
