@@ -1,9 +1,9 @@
 ---
-title: "Sonata"
 permalink: /sonata/
+title: "SONATA"
+excerpt: ""
 author_profile: true
 redirect_from:
-  - "/sonata/"
   - "/sonata.html"
 ---
 
