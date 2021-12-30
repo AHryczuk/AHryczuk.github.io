@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: "DRAKE"
-permalink: /drake/
+title: "Sonata"
+permalink: /sonata/
 author_profile: true
 redirect_from:
-  - "/drake/"
-  - "/drake.html"
+  - "/sonata/"
+  - "/onata.html"
 ---
 
 {% include base_path %}
@@ -21,9 +21,3 @@ redirect_from:
 
 
 The webpage of the project can be found [here](https://drake.hepforge.org).
-
-If you use DRAKE for your scientific publications, please cite:
-
-_DRAKE: Dark matter Relic Abundance beyond Kinetic Equilibrium_
-Tobias Binder, Torsten Bringmann, Michael Gustafsson and Andrzej Hryczuk
-Eur. Phys. J. C 81, 577 (2021) [arXiv:2103.01944](https://arxiv.org/abs/arXiv:2103.01944)
