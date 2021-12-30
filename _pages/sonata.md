@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: "Sonata"
 permalink: /sonata/
 author_profile: true

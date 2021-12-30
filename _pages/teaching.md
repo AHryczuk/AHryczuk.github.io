@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-<h2> Outreach lectures (in Polish)</h2>
+<h2> Outreach activities (in Polish)</h2>
 
 <h3> O ciemnej materii</h3>
 

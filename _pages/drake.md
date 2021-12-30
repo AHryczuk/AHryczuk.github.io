@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: "DRAKE"
 permalink: /drake/
 author_profile: true
