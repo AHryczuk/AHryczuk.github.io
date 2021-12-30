@@ -10,9 +10,31 @@ redirect_from:
 
 {% include base_path %}
 
+SONATA project
+======
+<i>"The impact of non-equilibrium and thermal effects on the evolution of Dark Matter in the Early Universe plasma"</i>
 
-[DRAKE](https://drake.hepforge.org) is a unique numerical precision tool for predicting the dark matter relic abundance also in situations where the standard assumption of kinetic equilibrium during the freeze-out process may not be satisfied. DRAKE comes with a set of three dedicated Boltzmann equation solvers that implement, respectively, the traditionally adopted equation for the dark matter number density, fluid-like equations that couple the evolution of number density and velocity dispersion, and a full numerical evolution of the phase-space distribution.
+Team Members:
+* Andrzej Hryczuk (PI)
+* Maxim Laletin (Postdoc)
 
+Results
+======
+
+Publications
+* Dark matter freeze-in from semi-production
+_A. Hryczuk, M. Laletin_ <br>
+JHEP 06 (2021) 026 [arXiv:2104.05684](https://arxiv.org/abs/2104.05684)
+
+* DRAKE: Dark Matter Relic Abundance beyond Kinetic Equilibrium
+_T. Binder, T. Bringmann, M. Gustafsson, A. Hryczuk_ <br>
+Eur. Phys. J. C 81, 577 (2021) [arXiv:2103.01944](https://arxiv.org/abs/2103.01944)
+
+
+Talks
+*
+
+[DRAKE](https://drake.hepforge.org)
 <p>
  <div>
     <p ><a href=http://ahryczuk.github.io/pages/drake.md"><img src="http://ahryczuk.github.io/files/code-scheme.pdf" height="480px" width="480px" border="1px"></a></p>
