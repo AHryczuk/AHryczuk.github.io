@@ -14,7 +14,7 @@ The code is under continuous development so.. stay tuned!
 
 <p>
  <div>
-    <p ><img src="http://ahryczuk.github.io/files/code_scheme.pdf" height="580px" width="580px" border="1px"></p>
+    <p ><img src="http://ahryczuk.github.io/files/code_scheme.pdf" height="620px" width="620px" border="1px"></p>
  </div>
 </p>
 
