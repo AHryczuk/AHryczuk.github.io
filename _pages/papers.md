@@ -22,7 +22,7 @@ JHEP 06 (2021) 026 [arXiv:2104.05684](https://arxiv.org/abs/2104.05684)
     <p style="float: right;"><img src="http://ahryczuk.github.io/files/Y_semi.pdf" height="280px" width="280px" border="1px"></p>
     <p>
 
-    In this paper.................. ............. ........... .................. .................... ................. ..................... ................... ....................... ......................... .............. ............ ......................... .................. .................... ................... ............ ................... ................. ............ ................ ................ ............ ............... ................. ............ ............... ................. ............ ............... ................... ................... ............ ................... ................. ............ ................ ................ ............ ............... ................. ............ ............... ................. ............ ...............
+    In this paper we study a novel dark matter production mechanism based on the freeze-in through semi-production, i.e. the inverse semi-annihilation processes. A peculiar feature of this scenario is that the production rate is suppressed by a small initial abundance of dark matter and consequently creating the observed abundance requires much larger coupling values than for the usual freeze-in. We show that, even if it was never in full thermal equilibrium in the early Universe, dark matter could, nevertheless, have strong enough present-day annihilation cross section to lead to observable signals.
     </p>
  </div>
 </p>
@@ -39,7 +39,7 @@ Eur. Phys. J. C 81, 577 (2021) [arXiv:2103.01944](https://arxiv.org/abs/2103.019
     <p style="float: right;"><img src="http://ahryczuk.github.io/files/3Dplot.pdf" height="280px" width="280px" border="1px"></p>
     <p>
 
-    In this paper.................. ............. ........... .................. .................... ................. ..................... ................... ....................... ......................... .............. ............ ......................... .................. .................... ................... ............ ................... ................. ............ ................ ................ ............ ............... ................. ............ ............... ................. ............ ............... ................... ................... ............ ................... ................. ............ ................ ................ ............ ............... ................. ............ ............... ................. ............ ...............
+    In this paper we introduce DRAKE, a numerical precision tool for predicting the dark matter relic abundance also in situations where the standard assumption of kinetic equilibrium during the freeze-out process may not be satisfied. DRAKE comes with a set of three dedicated Boltzmann equation solvers that implement, respectively, the traditionally adopted equation for the dark matter number density, fluid-like equations that couple the evolution of number density and velocity dispersion, and a full numerical evolution of the phase-space distribution.
     </p>
  </div>
 </p>
@@ -55,7 +55,7 @@ Phys.Rev.D 102 (2020) 4 [arXiv:2006.16139](https://arxiv.org/abs/2006.16139)
     <p style="float: right;"><img src="http://ahryczuk.github.io/files/H0fit.pdf" height="280px" width="280px" border="1px"></p>
     <p>
 
-    In this paper.................. ............. ........... .................. .................... ................. ..................... ................... ....................... ......................... .............. ............ ......................... .................. .................... ................... ............ ................... ................. ............ ................ ................ ............ ............... ................. ............ ............... ................. ............ ............... ................... ................... ............ ................... ................. ............ ................ ................ ............ ............... ................. ............ ............... ................. ............ ...............
+    In this paper we study a dark matter production mechanism based on decays of a messenger WIMP-like state into a pair of dark matter particles that are self-interacting via exchange of a light mediator. Its distinctive thermal history allows the mediator to be stable and therefore avoid strong limits from the cosmic microwave background and indirect detection. A natural by-product of this mechanism is a possibility of a late time, i.e., after recombination, transition to subdominant dark radiation component through three-body and one-loop decays to states containing the light mediator. We examine to what extent such a process can help to alleviate the H0 tension. Additionally, the mechanism can provide a natural way of constructing dark matter models with ultrastrong self-interactions that may positively affect the supermassive black hole formation rate.
     </p>
  </div>
 </p>
