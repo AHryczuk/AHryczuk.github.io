@@ -5,7 +5,7 @@ permalink: /sonata/
 author_profile: true
 redirect_from:
   - "/sonata/"
-  - "/onata.html"
+  - "/sonata.html"
 ---
 
 {% include base_path %}
