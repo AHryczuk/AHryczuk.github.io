@@ -70,7 +70,7 @@ JHEP 2020 (2020) 081 [arXiv:2001.09156](https://arxiv.org/abs/2001.09156)
     <p style="float: right;"><img src="http://ahryczuk.github.io/files/uncert.pdf" height="280px" width="280px" border="1px"></p>
     <p>
 
-    In this paper.................. ............. ........... .................. .................... ................. ..................... ................... ....................... ......................... .............. ............ ......................... .................. .................... ................... ............ ................... ................. ............ ................ ................ ............ ............... ................. ............ ............... ................. ............ ............... ................... ................... ............ ................... ................. ............ ................ ................ ............ ............... ................. ............ ............... ................. ............ ...............
+    In this paper we use the state-of-the-art high-resolution cosmological simulations by IllustrisTNG to derive the velocity distribution and local density of dark matter in galaxies like our Milky Way and find a substantial spread in both quantities. Next we use our findings to examine the sensitivity to the dark matter velocity profile of underground searches using electron scattering in germanium and silicon targets. We find that sub-GeV dark matter search is strongly affected by these uncertainties, unlike nuclear recoil searches for heavier dark matter, especially in multiple electron-hole modes, for which the sensitivity to the scattering cross-section is also weaker. Therefore, by improving the sensitivity to lower ionization thresholds not only projected sensitivities will be boosted but also the dependence on the astrophysical uncertainties will become significantly reduced.
     </p>
  </div>
 </p>
@@ -85,7 +85,7 @@ JHEP 1911 (2019) 159 [arXiv:1908.05685](https://arxiv.org/abs/1908.05685)
     <p style="float: right;"><img src="http://ahryczuk.github.io/files/FIscan.pdf" height="280px" width="280px" border="1px"></p>
     <p>
 
-    In this paper.................. ............. ........... .................. .................... ................. ..................... ................... ....................... ......................... .............. ............ ......................... .................. .................... ................... ............ ................... ................. ............ ................ ................ ............ ............... ................. ............ ............... ................. ............ ............... ................... ................... ............ ................... ................. ............ ................ ................ ............ ............... ................. ............ ............... ................. ............ ...............
+    In this paper we examine and point out the importance of a regime of dark matter production through the freeze-in mechanism that results from a large thermal correction to a decaying mediator particle mass from hot plasma in the early Universe. We show that mediator decays to dark matter that are kinematically forbidden at the usually considered ranges of low temperatures can be generically present at higher temperatures and actually dominate the overall dark matter production, thus leading to very distinct solutions from the standard case.
     </p>
  </div>
 </p>
@@ -100,7 +100,7 @@ JHEP 1910 (2019) 043 [arXiv:1905.00315](https://arxiv.org/abs/1905.00315)
     <p style="float: right;"><img src="http://ahryczuk.github.io/files/CTA.pdf" height="280px" width="280px" border="1px"></p>
     <p>
 
-    In this paper.................. ............. ........... .................. .................... ................. ..................... ................... ....................... ......................... .............. ............ ......................... .................. .................... ................... ............ ................... ................. ............ ................ ................ ............ ............... ................. ............ ............... ................. ............ ............... ................... ................... ............ ................... ................. ............ ................ ................ ............ ............... ................. ............ ............... ................. ............ ...............
+    In this paper we provide an updated and improved study of the prospects of the H.E.S.S. and Cherenkov Telescope Array (CTA) experiments in testing neutralino dark matter in the Minimal Supersymmetric Standard Model with nine free parameters (p9MSSM). We include all relevant experimental constraints and theoretical developments, in particular a calculation of the Sommerfeld enhancement for both present-day annihilations and the relic abundance. We perform a state-of-the-art analysis of the CTA sensitivity with a log- likelihood test ratio statistics and apply it to a numerical scan of the p9MSSM parameter space focusing on a TeV scale dark matter.
     </p>
  </div>
 </p>
@@ -115,7 +115,8 @@ JHEP 1903 (2019) 204 [arXiv:1901.08074](https://arxiv.org/abs/1901.08074)
     <p style="float: right;"><img src="http://ahryczuk.github.io/files/Z3dd.pdf" height="280px" width="280px" border="1px"></p>
     <p>
 
-    In this paper.................. ............. ........... .................. .................... ................. ..................... ................... ....................... ......................... .............. ............ ......................... .................. .................... ................... ............ ................... ................. ............ ................ ................ ............ ............... ................. ............ ............... ................. ............ ............... ................... ................... ............ ................... ................. ............ ................ ................ ............ ............... ................. ............ ............... ................. ............ ...............
+    In this paper we reconsider complex scalar singlet dark matter stabilised by a Z3
+  symmetry. We include many improvements e.g. in the treatment of the thermal freeze-out by including the evolution of the dark matter temperature and its feedback onto relic abundance. We show that the whole large semi-annihilation region will be probed by the near-future measurements at the XENONnT experiment.
     </p>
  </div>
 </p>
@@ -130,7 +131,7 @@ Phys.Rev D96 (2017) no.11 115010 [arXiv:1706.07433](https://arxiv.org/abs/1706.0
     <p style="float: right;"><img src="http://ahryczuk.github.io/files/EarlyKD.pdf" height="280px" width="280px" border="1px"></p>
     <p>
 
-    In this paper.................. ............. ........... .................. .................... ................. ..................... ................... ....................... ......................... .............. ............ ......................... .................. .................... ................... ............ ................... ................. ............ ................ ................ ............ ............... ................. ............ ............... ................. ............ ............... ................... ................... ............ ................... ................. ............ ................ ................ ............ ............... ................. ............ ............... ................. ............ ...............
+    In this paper we point out that one of the main assumptions in the commonly adopted formalism for calculation of DM relic density, namely local thermal equilibrium during the freeze-out of annihilating dark matter particles, does not have to be satisfied in general. We present two methods for how to deal with such situations, in which the kinetic decoupling of dark matter happens so early that it interferes with the chemical decoupling process: (i) an approximate treatment in terms of a coupled system of differential equations for the leading momentum moments of the dark matter distribution, and (ii) a full numerical solution of the Boltzmann equation in phase space.
     </p>
  </div>
 </p>
@@ -146,7 +147,7 @@ JHEP 1701 (2017) 002 [arXiv:1611.00804](https://arxiv.org/abs/1611.00804)
     <p style="float: right;"><img src="http://ahryczuk.github.io/files/refuge.pdf" height="280px" width="280px" border="1px"></p>
     <p>
 
-    In this paper.................. ............. ........... .................. .................... ................. ..................... ................... ....................... ......................... .............. ............ ......................... .................. .................... ................... ............ ................... ................. ............ ................ ................ ............ ............... ................. ............ ............... ................. ............ ............... ................... ................... ............ ................... ................. ............ ................ ................ ............ ............... ................. ............ ............... ................. ............ ...............
+    In this paper we delineate the allowed parameter and mass range for a wino-like dark matter particle containing some Higgsino admixture in the MSSM by analysing the constraints from diffuse gamma-rays from the dwarf spheroidal galaxies, galactic cosmic rays, direct detection and cosmic microwave background anisotropies. A complete calculation of the Sommerfeld effect for the mixed-neutralino case is performed. We find that the combination of direct and indirect searches poses significant restrictions on the thermally produced wino-Higgsino dark matter with correct relic density.
     </p>
  </div>
 </p>
@@ -161,7 +162,7 @@ Phys.Rev D95 (2017) no.4 043002  [arXiv:1610.04613](https://arxiv.org/abs/1610.0
     <p style="float: right;"><img src="http://ahryczuk.github.io/files/novelID.pdf" height="280px" width="280px" border="1px"></p>
     <p>
 
-    In this paper.................. ............. ........... .................. .................... ................. ..................... ................... ....................... ......................... .............. ............ ......................... .................. .................... ................... ............ ................... ................. ............ ................ ................ ............ ............... ................. ............ ............... ................. ............ ............... ................... ................... ............ ................... ................. ............ ................ ................ ............ ............... ................. ............ ............... ................. ............ ...............
+    In this paper we present a new class of distinct sub-GeV spectral features that generically appear in kinematical situations where the available center-of-mass energy in such processes is just above threshold to produce excited meson states. Using a Fisher forecast with realistic astrophysical backgrounds, we demonstrate that for upcoming experiments like e-ASTROGAM and ComPair these signals can turn out to be the smoking gun in the search for particle dark matter.
     </p>
  </div>
 </p>
@@ -176,7 +177,7 @@ JHEP 1609 (2016) 031 [arXiv:1607.03910](https://arxiv.org/abs/1607.03910)
     <p style="float: right;"><img src="http://ahryczuk.github.io/files/ope.pdf" height="280px" width="280px" border="1px"></p>
     <p>
 
-    In this paper.................. ............. ........... .................. .................... ................. ..................... ................... ....................... ......................... .............. ............ ......................... .................. .................... ................... ............ ................... ................. ............ ................ ................ ............ ............... ................. ............ ............... ................. ............ ............... ................... ................... ............ ................... ................. ............ ................ ................ ............ ............... ................. ............ ............... ................. ............ ...............
+    In this paper we apply the operator product expansion (OPE) technique to the decay and annihilation of heavy particles in a thermal medium with temperature below the heavy particle mass. This allows us to explain two interesting observations made before: a) that the leading thermal correction to the decay width of a charged particle is the same multiplicative factor of the zero-temperature width for a two-body decay and muon decay, and b) that the leading thermal correction to fermionic dark matter annihilation arises only at order (T/m)^4. The OPE further considerably simplifies the computation and factorizes it into model-independent matrix elements in the thermal background, and short-distance coefficients to be computed in zero-temperature field theory.
     </p>
  </div>
 </p>
@@ -191,7 +192,7 @@ _M. Beneke, A. Bharucha, F. Dighera, C. Hellmann, A. Hryczuk, S. Recksiegel, P. 
     <p style="float: right;"><img src="http://ahryczuk.github.io/files/SEpaper1.pdf" height="280px" width="280px" border="1px"></p>
     <p>
 
-    In this paper.................. ............. ........... .................. .................... ................. ..................... ................... ....................... ......................... .............. ............ ......................... .................. .................... ................... ............ ................... ................. ............ ................ ................ ............ ............... ................. ............ ............... ................. ............ ............... ................... ................... ............ ................... ................. ............ ................ ................ ............ ............... ................. ............ ............... ................. ............ ...............
+    In this paper we use a recently developed framework to calculate the Sommerfeld-enhanced relic density in general MSSM scenarios, properly treating mixed states and multiple co-annihilating channels as well as including off-diagonal contributions. Including on-shell one-loop mass splittings and running couplings and taking into account the latest experimental constraints, we perform a thorough study of the regions of parameter space surrounding the well known pure-wino scenario: namely the effect of sfermion masses being non-decoupled and of allowing non-negligible Higgsino or bino components in the lightest neutralino. We further perform an investigation into the effect of thermal corrections and show that these can safely be neglected. The results reveal a number of phenomenologically interesting but so far unexplored regions where the Sommerfeld effect is sizeable.
     </p>
  </div>
 </p>
@@ -207,7 +208,7 @@ JHEP 1410 (2014) 045 [arXiv:1409.3049](https://arxiv.org/abs/1409.3049)
     <p style="float: right;"><img src="http://ahryczuk.github.io/files/IRfinite.pdf" height="280px" width="280px" border="1px"></p>
     <p>
 
-    In this paper.................. ............. ........... .................. .................... ................. ..................... ................... ....................... ......................... .............. ............ ......................... .................. .................... ................... ............ ................... ................. ............ ................ ................ ............ ............... ................. ............ ............... ................. ............ ............... ................... ................... ............ ................... ................. ............ ................ ................ ............ ............... ................. ............ ............... ................. ............ ...............
+     There is an increasing interest in accurate dark matter relic density predictions, which requires next-to-leading order (NLO) calculations. The method applied up to now uses zero-temperature NLO calculations of annihilation cross sections in the standard Boltzmann equation for freeze-out, and is conceptually problematic, since it ignores the finite-temperature infrared (IR) divergences from soft and collinear radiation and virtual effects. We address this problem systematically by starting from non-equilibrium quantum field theory, and demonstrate on a realistic model that soft and collinear temperature-dependent divergences cancel in the collision term. Our analysis provides justification for the use of the freeze-out equation in its conventional form and determines the leading finite-temperature correction to the annihilation cross section. This turns out to have a remarkably simple structure.
     </p>
  </div>
 </p>
@@ -222,7 +223,7 @@ _I. Cholis, A. Hryczuk, R. Iengo, P. Ullio and M. Tavakoli_ <br>
     <p style="float: right;"><img src="http://ahryczuk.github.io/files/WinoID.pdf" height="280px" width="280px" border="1px"></p>
     <p>
 
-    In this paper.................. ............. ........... .................. .................... ................. ..................... ................... ....................... ......................... .............. ............ ......................... .................. .................... ................... ............ ................... ................. ............ ................ ................ ............ ............... ................. ............ ............... ................. ............ ............... ................... ................... ............ ................... ................. ............ ................ ................ ............ ............... ................. ............ ............... ................. ............ ...............
+    In this paper we perform a first true multichannel analysis of the indirect signals for the Wino Dark Matter, including one-loop electroweak and Sommerfeld enhancement corrections. We derive limits from cosmic ray antiprotons and positrons, from continuum galactic and extragalactic diffuse gamma-ray spectra, from the absence of gamm-ray line features at the galactic center above 500 GeV in energy, from gamma-rays toward nearby dwarf spheroidal galaxies and galaxy clusters, and from CMB power-spectra. Additionally, we show the future prospects for neutrino observations toward the inner Galaxy and from antideuteron searches.
     </p>
  </div>
 </p>
@@ -238,7 +239,7 @@ JHEP 1201 (2012) 163, Erratum-ibid. 1206 (2012) 137 [arXiv:1111.2916](https://ar
     <p style="float: right;"><img src="http://ahryczuk.github.io/files/SEloop.pdf" height="280px" width="280px" border="1px"></p>
     <p>
 
-    In this paper.................. ............. ........... .................. .................... ................. ..................... ................... ....................... ......................... .............. ............ ......................... .................. .................... ................... ............ ................... ................. ............ ................ ................ ............ ............... ................. ............ ............... ................. ............ ............... ................... ................... ............ ................... ................. ............ ................ ................ ............ ............... ................. ............ ............... ................. ............ ...............
+    In this paper we compute the present-day Wino dark matter annihilation cross-section including the one-loop radiative corrections together with the fully treated electroweak Sommerfeld effect. We discuss what is the consistent way of incorporating these two corrections simultaneously and why simply using the running coupling constants values at the Wino mass scale is not correct.
     </p>
  </div>
 </p>
@@ -254,7 +255,8 @@ Phys. Lett. B699 (2011) 271-275 [arXiv:1102.4295](https://arxiv.org/abs/1102.429
     <p style="float: right;"><img src="http://ahryczuk.github.io/files/SEscalar.pdf" height="280px" width="280px" border="1px"></p>
     <p>
 
-    In this paper.................. ............. ........... .................. .................... ................. ..................... ................... ....................... ......................... .............. ............ ......................... .................. .................... ................... ............ ................... ................. ............ ................ ................ ............ ............... ................. ............ ............... ................. ............ ............... ................... ................... ............ ................... ................. ............ ................ ................ ............ ............... ................. ............ ............... ................. ............ ...............
+    This paper studies the impact of the Sommerfeld enhancement on the thermal relic density of the lightest neutralino in the case of large co-annihilation effects with a scalar particle. The proper way of including the Sommerfeld effect in this case is discussed, and the appropriate formulas for a general scenario with a set of particles with arbitrary masses and (off-)diagonal interactions are provided. We implement these results to compute the relic density in the neutralino sfermion co-annihilation regions in the mSUGRA framework. A numerical package, DarkSE, for computing the neutralino relic density including the Sommerfeld effect in a general MSSM setup is made public available.
+
     </p>
  </div>
 </p>
@@ -269,7 +271,7 @@ JHEP 1103 (2011) 069 [arXiv:1010.2172](https://arxiv.org/abs/1010.2172)
     <p style="float: right;"><img src="http://ahryczuk.github.io/files/SEmssm.pdf" height="280px" width="280px" border="1px"></p>
     <p>
 
-    In this paper.................. ............. ........... .................. .................... ................. ..................... ................... ....................... ......................... .............. ............ ......................... .................. .................... ................... ............ ................... ................. ............ ................ ................ ............ ............... ................. ............ ............... ................. ............ ............... ................... ................... ............ ................... ................. ............ ................ ................ ............ ............... ................. ............ ............... ................. ............ ...............
+    In this paper we have developed a general formalism to compute Sommerfeld enhancement (SE) factors for a multi-state system of fermions, in all possible spin configurations and with generic long-range interactions. We show how to include such SE effects in an accurate calculation of the thermal relic density for WIMP dark matter candidates. We apply the method to the MSSM and perform a numerical study of the relic abundance of neutralinos with arbitrary composition and including the SE due to the exchange of the W and Z bosons, photons and Higgses.
     </p>
  </div>
 </p>

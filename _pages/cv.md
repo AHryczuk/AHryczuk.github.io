@@ -13,8 +13,8 @@ Full CV can be dowloaded [here](http://ahryczuk.github.io/files/CV.pdf) _(update
 
 Education
 ======
-* 2007 - M.S. at **University of Warsaw**, Poland
-* 2012 - Ph.D. at **SISSA** (International School for Advanced Studies), Trieste, Italy
+* 2007 - M.S. at **University of Warsaw**, Poland  [thesis (in Polish)](http://ahryczuk.github.io/files/xxxx.pdf)
+* 2012 - Ph.D. at **SISSA** (International School for Advanced Studies), Trieste, Italy [thesis](http://ahryczuk.github.io/files/PhD_Andrzej_Hryczuk.pdf)
 
 
 Work experience
