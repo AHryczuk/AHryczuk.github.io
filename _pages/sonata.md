@@ -9,9 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-SONATA project
-======
+
 <i>"The impact of non-equilibrium and thermal effects on the evolution of Dark Matter in the Early Universe plasma"</i>
+======
 
 Team Members:
 * Andrzej Hryczuk (PI)
