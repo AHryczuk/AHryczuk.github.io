@@ -85,7 +85,6 @@ author:
   bio              : "Theoretical (astro-)particle physicist at National Centre for Nuclear Research"
   location         : "Warsaw, Poland"
   employer         :
-  googlescholar    : "https://scholar.google.com/citations?user=Zy1385kAAAAJ&hl=pl"
   email            :  "andrzej.hryczuk@ncbj.gov.pl"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -93,6 +92,7 @@ author:
   linkedin         :
 #  orcid            : "http://orcid.org/0000-0002-3513-1794"
   inspirehep       : "https://inspirehep.net/authors/1078224?ui-citation-summary=true"
+  googlescholar    : "https://scholar.google.com/citations?user=Zy1385kAAAAJ&hl=pl"
   stackexchange    : "79522/andrzej"
 #  youtube          :
 #  wikipedia        :
