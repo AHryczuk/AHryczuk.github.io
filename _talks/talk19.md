@@ -2,7 +2,7 @@
 title: "The relic density of heavy neutralinos"
 collection: talks
 type: "Conference talk"
-permalink: /files/xxxxxxxx.pdf
+permalink: /files/COSMO2015.pdf
 venue: "COSMO 2015"
 date: 2015-09-09
 location: "Warsaw, Poland"

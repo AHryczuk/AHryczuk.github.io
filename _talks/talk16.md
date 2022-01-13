@@ -2,7 +2,7 @@
 title: "Relic Density at NLO: thermal corrections"
 collection: talks
 type: "Conference talk"
-permalink: /files/xxxxxxxx.pdf
+permalink: /files/DSU2016.pdf
 venue: "University of Bergen"
 date: 2016-07-29
 location: "Bergen, Norway"

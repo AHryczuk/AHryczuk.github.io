@@ -2,7 +2,7 @@
 title: "Self-interacting DM and the H_0 tension"
 collection: talks
 type: "Conference talk"
-permalink: /files/xxxxxxxx.pdf
+permalink: /files/SAFIR_DMworkshop2020.pdf
 venue: "SAFIR DM workshop (online)"
 date: 2020-12-04
 location: "Sao Paolo, Brazil (online)"

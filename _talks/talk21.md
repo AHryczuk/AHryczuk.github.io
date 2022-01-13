@@ -2,7 +2,7 @@
 title: "The indirect detection signals of Wino dark matter"
 collection: talks
 type: "Poster"
-permalink: /files/xxxxxxxx.pdf
+permalink: /files/posterICTP&Cracow.pdf
 venue: "ICTP"
 date: 2013-10-10
 location: "Trieste, Italy"

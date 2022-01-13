@@ -2,7 +2,7 @@
 title: "The indirect detection signals of Wino dark matter"
 collection: talks
 type: "Poster"
-permalink: /files/xxxxxxxx.pdf
+permalink: /files/posterICTP&Cracow.pdf
 venue: "Jagiellonian University"
 date: 2013-03-05
 location: "Kraków, Poland"
