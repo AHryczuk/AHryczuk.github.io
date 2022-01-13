@@ -11,7 +11,7 @@ redirect_from:
 
 DarkSE is a numerical package for [DarkSUSY](https://darksusy.hepforge.org) adding the functionality of calculating the Sommerfeld Enhancement (SE) for general MSSM. It supplies the results for both relic density and present day annihilation cross section and is still the only available public tool that performs this calculation for MSSM.
 
-Here one can find the [code]() and a short [manual]().
+Here one can find the [code](http://ahryczuk.github.io/files/DarkSE-v1.1.zip) and a short [manual](http://ahryczuk.github.io/files/DarkSE.pdf).
 
 The code is no longer under development and has not been interfaced with DarkSUSY 6.x. However, in case of interest please contact me to discuss possible adjustments to bring it to functionality with the newest DarkSUSY versions.
 

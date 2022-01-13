@@ -18,9 +18,9 @@ author_profile: true
 
 <h3> Z cyklu <a href="https://pl-pl.facebook.com/LetnieSpotkaniaZNauka/">Letnie Spotkania z Nauką</a></h3>
 
-* _"Co kryje się we wnętrzu czarnej dziury"_, 13.07.2019, [slajdy](http://ahryczuk.github.io/files/xxxx.pdf)
-* _"Entropia i strzałka czasu"_, 4.08.2018, [slajdy](http://ahryczuk.github.io/files/xxxx.pdf)
-* _"Z czego zbudowany jest Wszechświat"_, 17.08.2013, [slajdy](http://ahryczuk.github.io/files/xxxx.pdf)
+* _"Co kryje się we wnętrzu czarnej dziury"_, 13.07.2019, [slajdy](http://ahryczuk.github.io/files/LSzN2019.pdf)
+* _"Entropia i strzałka czasu"_, 4.08.2018, [slajdy](http://ahryczuk.github.io/files/LSzN2018.pdf)
+* _"Z czego zbudowany jest Wszechświat"_, 17.08.2013, [slajdy](http://ahryczuk.github.io/files/LSzN2013.pdf)
 
 
 <h3>W mediach</h3>

@@ -10,7 +10,7 @@ redirect_from:
 
 [DRAKE](https://drake.hepforge.org) is a unique numerical precision tool written in _Wolfram Language_ for predicting the dark matter relic abundance also in situations where the standard assumption of kinetic equilibrium during the freeze-out process may not be satisfied. DRAKE comes with a set of three dedicated Boltzmann equation solvers that implement, respectively, the traditionally adopted equation for the dark matter number density, fluid-like equations that couple the evolution of number density and velocity dispersion, and a full numerical evolution of the phase-space distribution.
 
-The code is under continuous development so.. stay tuned!
+The code is under continuous development so... stay tuned!
 
 <p>
  <div>
