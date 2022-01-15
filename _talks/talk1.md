@@ -2,7 +2,7 @@
 title: "Freeze-in of Dark Matter: recent developments"
 collection: talks
 type: "Seminar"
-permalink: /files/FUW2021.pdf
+permalink: /files/talks/FUW2021.pdf
 venue: "University of Warsaw (online)"
 date: 2021-11-25
 location: "Warsaw, Poland"
