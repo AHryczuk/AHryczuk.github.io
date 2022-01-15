@@ -2,7 +2,7 @@
 title: "Dark Matter Relic Density: revisited"
 collection: talks
 type: "Conference talk"
-permalink: /files/Moriond2018.pdf
+permalink: /files/talks/Moriond2018.pdf
 venue: "Rencontres de Moriond"
 date: 2018-03-14
 location: "La Thuille, Italy"

@@ -2,7 +2,7 @@
 title: "(More) exceptions in the calculations of relic abundances"
 collection: talks
 type: "Seminar"
-permalink: /files/LPTHE2017.pdf
+permalink: /files/talks/LPTHE2017.pdf
 venue: "LPTHE"
 date: 2017-11-07
 location: "Paris, France"

@@ -2,7 +2,7 @@
 title: "Dark Matter and the H_0 tension"
 collection: talks
 type: "Conference talk"
-permalink: /files/ZFP2021.pdf
+permalink: /files/talks/ZFP2021.pdf
 venue: "Congress of Polish Physicists (online)"
 date: 2021-09-23
 location: "Bydgoszcz, Poland"

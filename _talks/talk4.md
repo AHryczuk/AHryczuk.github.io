@@ -2,7 +2,7 @@
 title: "Dark matter relic abundance beyond kinetic equilibrium"
 collection: talks
 type: "Conference talk"
-permalink: /files/PPC2021.pdf
+permalink: /files/talks/PPC2021.pdf
 venue: "PPC2021 workshop (online)"
 date: 2021-05-19
 location: "Norman, Oklahoma (online)"

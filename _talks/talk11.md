@@ -2,7 +2,7 @@
 title: "Early Kinetic Decoupling of DM: when the standard way of calculating the thermal relic density fails"
 collection: talks
 type: "Conference talk"
-permalink: /files/COSMO2018.pdf
+permalink: /files/talks/COSMO2018.pdf
 venue: "COSMO 2018"
 date: 2018-08-28
 location: "Deajeon, South Korea"

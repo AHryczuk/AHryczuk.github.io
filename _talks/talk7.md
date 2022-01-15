@@ -2,7 +2,7 @@
 title: "Dark Matter at the TeV frontier"
 collection: talks
 type: "Seminar"
-permalink: /files/FUW2019.pdf
+permalink: /files/talks/FUW2019.pdf
 venue: "University of Warsaw"
 date: 2019-10-24
 location: "Warsaw, Poland"

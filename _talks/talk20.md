@@ -2,7 +2,7 @@
 title: "Relic density at NLO: the thermal IR divergence"
 collection: talks
 type: "Conference talk"
-permalink: /files/PASCOS2014.pdf
+permalink: /files/talks/PASCOS2014.pdf
 venue: "PASCOS 2014"
 date: 2014-06-26
 location: "Warsaw, Poland"

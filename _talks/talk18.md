@@ -2,7 +2,7 @@
 title: "Spectral features in the Mev-gap"
 collection: talks
 type: "Conference talk"
-permalink: /files/WWoNSDM.pdf
+permalink: /files/talks/WWoNSDM.pdf
 venue: "University of Warsaw"
 date: 2016-06-04
 location: "Warsaw, Poland"

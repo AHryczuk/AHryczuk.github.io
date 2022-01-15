@@ -2,7 +2,7 @@
 title: "Relic Density at NLO: IR finteness"
 collection: talks
 type: "Conference talk"
-permalink: /files/DESY2016.pdf
+permalink: /files/talks/DESY2016.pdf
 venue: "DESY"
 date: 2016-09-28
 location: "Hamburg, Germany"
