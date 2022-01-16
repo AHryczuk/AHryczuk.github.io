@@ -8,6 +8,6 @@ date: 2021-07-28
 location: "DESY, Hamburg, Germany"
 ---
 
-[SLIDES](http://ahryczuk.github.io/files/talks/EPS2021.pdf)
-
 Parallel talk at the [EPS-HEP conference](https://www.eps-hep2021.eu) organized at DESY.
+
+[SLIDES](http://ahryczuk.github.io/files/talks/EPS2021.pdf)

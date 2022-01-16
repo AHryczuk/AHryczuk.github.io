@@ -2,7 +2,7 @@
 title: "Sommerfeld enhancements in the MSSM"
 collection: talks
 type: "Conference talk"
-permalink: /files/xxxxxxxx.pdf
+#permalink: /files/xxxxxxxx.pdf
 venue: "UniverseNET School"
 date: 2010-09-14
 location: "Lecce, Italy"
