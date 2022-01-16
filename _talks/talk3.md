@@ -1,5 +1,5 @@
 ---
-title: "DRAKE: Dark matter relic abundance beyond kinetic equilibrium"
+title: "DRAKE: Dark matter relic abundance beyond kinetic equilibrium" [SLIDES](http://ahryczuk.github.io/files/talks/EPS2021.pdf)
 collection: talks
 type: "Conference talk"
 permalink: /files/talks/EPS2021.pdf
