@@ -285,6 +285,10 @@ JHEP 1103 (2011) 069 [arXiv:1010.2172](https://arxiv.org/abs/1010.2172)
 Contributing Author Publications & Proceedings
 ====
 
+**DRAKE: Dark matter Relic Abundance beyond Kinetic Equilibrium** <br>
+_A. Hryczuk_  <br>
+PoS (EPS-HEP2021) 170
+
 **Non-equilibrium Effects in the Evolution of Dark Matter** <br>
 _A. Hryczuk_  <br>
 Acta Phys. Pol. B Proc. Suppl. 13, 725 (2020)
