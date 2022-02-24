@@ -4,7 +4,7 @@ title: "SONATA Bis"
 excerpt: ""
 author_profile: true
 redirect_from:
-  - "/sonata.html"
+  - "/sonatabis.html"
 ---
 
 {% include base_path %}
@@ -19,4 +19,4 @@ Job openings:
 ======
 
 * Postdoc 2+1 <br>
-_A. Hryczuk, M. Laletin_ <br>
+_test_ <br>
