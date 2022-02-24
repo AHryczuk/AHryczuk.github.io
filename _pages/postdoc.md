@@ -9,24 +9,26 @@ redirect_from:
 
 {% include base_path %}
 
-Do you want to pursue novel research at the interface of particle physics and cosmology? Join me to work on the project related to interconnections between dark matter production and baryogenesis, phenomenology of multi-component dark sectors and much more!
+Do you want to pursue novel research at the _interface of particle physics and cosmology_? <br>
+Join me to work on the project related to interconnections between dark matter production and baryogenesis, phenomenology of multi-component dark sectors and much more!
 
 Qualification requirements:
 --------
 
-* PhD in theoretical particle/astroparticle physics or cosmology (obtained no earlier than in 2015)
+* PhD in theoretical particle/astroparticle physics or cosmology <br>
+(obtained no earlier than in 2015)
 * Research experience in BSM physics, dark matter or physics of the Early Universe
 * Experience in coding and/or numerical methods
 * Advanced English in writing and speaking
 
 Contract:
-======
+--------
 * Duration: 24 months (with possible extension of 12 months)
 * Starting date: Fall 2022
 * Salary: about 75 000 PLN/year (net) + substantial travel budget
 
 Application:
-======
+--------
 
 The application, consisting of a curriculum vitae and brief research statement, should be sent to me with the subject „postdoc 2022”. In addition, please arrange for at minimum two (but preferably three) letters of recommendation. Any other info that you find relevant (e.g., code samples, links to presentations/outreach, other non-research projects) are also welcome!
 
@@ -34,11 +36,13 @@ Link to official call for applications. [to appear soon!]
 
 **Deadline for the application: 25 March 2022**
 
-<img src="http://ahryczuk.github.io/files/warszawa.jpg" height="420px" width="260px" border="1px">
-(Fot. Mariusz Cieszewski / www.poland.pl)
-
 Life in Warsaw:
 ======
+
+<img src="http://ahryczuk.github.io/files/warszawa.jpg" height="820px" width="260px" border="1px">
+<br>
+(Fot. Mariusz Cieszewski / www.poland.pl)
+
 
 * It is a vibrant cosmopolitan city. Bit noisy sometimes, but also with quiet park areas, charming Old Town and a lot of things to do
 
