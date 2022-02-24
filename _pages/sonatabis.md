@@ -1,5 +1,5 @@
 ---
-permalink: /sonata/
+permalink: /sonatabis/
 title: "SONATA Bis"
 excerpt: ""
 author_profile: true
@@ -15,10 +15,10 @@ cosmological models"**.
 
 The project is scheduled to start in Fall 2022 and will be carried out by me (PI) two postdocs and one PhD student, together with number of external collaborators.
 
-Job openings: <img src="http://ahryczuk.github.io/files/new.pdf" height="30px" width="30px" border="0px">
+Job openings: <img src="http://ahryczuk.github.io/files/new.pdf" height="40px" width="40px" border="0px">
 ======
 
-* <a href="http://ahryczuk.github.io/postdoc.html"> Postdoc (2+1 years) </a> <br>
+* <a href="http://ahryczuk.github.io/postdoc.html"> Postdoc </a> <br>
 _2+1 year position starting in Fall 2022. Application deadline: 25.03.2022_ <br>
 
 
