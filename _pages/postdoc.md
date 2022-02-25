@@ -12,7 +12,7 @@ redirect_from:
 Do you want to pursue novel research at the _intersection of particle physics and cosmology_? <br><br>
 Join me to work on the project related to interconnections between dark matter production and baryogenesis, phenomenology of multi-component dark sectors and much more!
 
-Some information about Theoretical High Energy Physics group at <a href="https://www.ncbj.gov.pl/en"> NCBJ </a> can be found <a href="https://www.ncbj.gov.pl/en/particle-theory-group"> here </a>.
+Some information about Theoretical High Energy Physics group at <a href="https://www.ncbj.gov.pl/en"> NCBJ </a> can be found <a href="https://www.ncbj.gov.pl/en/particle-theory-group"> here</a>.
 
 Contract:
 --------
@@ -41,7 +41,7 @@ Link to official call for applications. [to appear soon!]
 Life in Warsaw:
 ======
 
-<img src="http://ahryczuk.github.io/files/warszawa.jpg" height="820px" width="460px" border="1px">
+<img src="http://ahryczuk.github.io/files/warszawa.jpg" height="1020px" width="560px" border="1px">
 <br>
 (Fot. Mariusz Cieszewski / www.poland.pl)
 
