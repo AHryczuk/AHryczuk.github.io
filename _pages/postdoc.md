@@ -32,7 +32,7 @@ Qualification requirements:
 Application:
 --------
 
-The application, consisting of a curriculum vitae and brief research statement, should be sent to me with the subject „postdoc 2022”. In addition, please arrange for at minimum two (but preferably three) letters of recommendation. Any other info that you find relevant (e.g., code samples, links to presentations/outreach, other non-research projects) are also welcome!
+The application, consisting of a curriculum vitae and a brief research statement, should be sent to me with the subject „postdoc 2022”. In addition, please arrange for at minimum two (but preferably three) letters of recommendation. Any other info that you find relevant (e.g., code samples, links to presentations/outreach, other non-research projects) are also welcome!
 
 Link to official call for applications. [to appear soon!]
 
