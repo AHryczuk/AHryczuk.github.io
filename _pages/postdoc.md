@@ -12,7 +12,7 @@ redirect_from:
 Do you want to pursue novel research at the _intersection of particle physics and cosmology_? <br><br>
 Join me to work on the project related to interconnections between dark matter production and baryogenesis, phenomenology of multi-component dark sectors and much more!
 
-Some information about Theoretical High Energy Physics group at <a href="https://www.ncbj.gov.pl/en"> NCBJ </a> can be found <a href="https://www.ncbj.gov.pl/en/particle-theory-group"> here</a>.
+Some information about Theoretical High Energy Physics group at <a href="https://www.ncbj.gov.pl/en"> NCBJ </a> can be found <a href="https://www.ncbj.gov.pl/en/particle-theory-group"> here</a>. The offices of the Department are located on the Ochota campus not far from the city centre, neighbouring the Physics Department of the University.
 
 Contract:
 --------

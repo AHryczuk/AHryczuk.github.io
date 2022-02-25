@@ -14,7 +14,7 @@ Join me to work on the project related to interconnections between dark matter p
 
 The <a href="https://gradschool.ncbj.gov.pl"> NCBJ graduate school </a> website contains all the necessary information for admission procedure, courses etc. and some additional useful information.
 
-Some information about Theoretical High Energy Physics group at <a href="https://www.ncbj.gov.pl/en"> NCBJ</a> can be found <a href="https://www.ncbj.gov.pl/en/particle-theory-group"> here</a>. The environment is friendly and very international with English being the default language within the group.
+Some information about Theoretical High Energy Physics group at <a href="https://www.ncbj.gov.pl/en"> NCBJ</a> can be found <a href="https://www.ncbj.gov.pl/en/particle-theory-group"> here</a>. The environment is friendly and very international with English being the default language within the group. The offices of the Department are located on the Ochota campus not far from the city centre, neighbouring the Physics Department of the University.
 
 Contract:
 --------
