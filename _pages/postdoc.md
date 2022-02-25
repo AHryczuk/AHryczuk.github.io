@@ -1,6 +1,6 @@
 ---
 permalink: /postdoc/
-title: "Opening: postdoc"
+title: "Opening: postdoc" <img src="http://ahryczuk.github.io/files/new.pdf" height="40px" width="40px" border="0px">
 excerpt: ""
 author_profile: true
 redirect_from:
@@ -9,8 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-Do you want to pursue novel research at the _interface of particle physics and cosmology_? <br>
+Do you want to pursue novel research at the _intersection of particle physics and cosmology_? <br><br>
 Join me to work on the project related to interconnections between dark matter production and baryogenesis, phenomenology of multi-component dark sectors and much more!
+
+Contract:
+--------
+* Duration: 24 months (with possible extension of 12 months)
+* Starting date: Fall 2022
+* Salary: about 75 000 PLN/year (net) + substantial travel budget
 
 Qualification requirements:
 --------
@@ -20,12 +26,6 @@ Qualification requirements:
 * Research experience in BSM physics, dark matter or physics of the Early Universe
 * Experience in coding and/or numerical methods
 * Advanced English in writing and speaking
-
-Contract:
---------
-* Duration: 24 months (with possible extension of 12 months)
-* Starting date: Fall 2022
-* Salary: about 75 000 PLN/year (net) + substantial travel budget
 
 Application:
 --------
@@ -39,13 +39,13 @@ Link to official call for applications. [to appear soon!]
 Life in Warsaw:
 ======
 
-<img src="http://ahryczuk.github.io/files/warszawa.jpg" height="820px" width="260px" border="1px">
+<img src="http://ahryczuk.github.io/files/warszawa.jpg" height="820px" width="460px" border="1px">
 <br>
 (Fot. Mariusz Cieszewski / www.poland.pl)
 
 
 * It is a vibrant cosmopolitan city. Bit noisy sometimes, but also with quiet park areas, charming Old Town and a lot of things to do
 
-* Cost of living: lower than in Western EU countries, but perhaps bit higher than you imagine. Typical prices: monthly rent studio apartment (), monthly public transportation (~100 PLN), lunch at cafeteria (~20 PLN), dinner at a restaurant (~40-60 PLN)
+* Cost of living: lower than in Western EU countries, but perhaps bit higher than you'd expect. Typical prices: monthly rent studio apartment (~1500-2000 PLN), monthly public transportation (~100 PLN), lunch at cafeteria (~20 PLN), full dinner at a restaurant (~40-60 PLN)
 
 * Language: English is more than sufficient to live and get by - though learning some Polish words can provide useful :)
