@@ -1,6 +1,6 @@
 ---
 permalink: /postdoc/
-title: "Opening: postdoc" <img src="http://ahryczuk.github.io/files/new.pdf" height="40px" width="40px" border="0px">
+title: "Opening: postdoc"
 excerpt: ""
 author_profile: true
 redirect_from:
@@ -11,6 +11,8 @@ redirect_from:
 
 Do you want to pursue novel research at the _intersection of particle physics and cosmology_? <br><br>
 Join me to work on the project related to interconnections between dark matter production and baryogenesis, phenomenology of multi-component dark sectors and much more!
+
+Some information about Theoretical High Energy Physics group at <a href="https://www.ncbj.gov.pl/en"> NCBJ </a> can be found <a href="https://www.ncbj.gov.pl/en/particle-theory-group"> here </a>.
 
 Contract:
 --------
