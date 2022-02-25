@@ -26,7 +26,7 @@ Qualification requirements:
 * PhD in theoretical particle/astroparticle physics or cosmology <br>
 (obtained no earlier than in 2015)
 * Research experience in BSM physics, dark matter or physics of the Early Universe
-* Experience in coding and/or numerical methods
+* Experience in coding and/or numerical methods is an asset
 * Advanced English in writing and speaking
 
 Application:
