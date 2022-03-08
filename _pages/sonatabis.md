@@ -19,7 +19,7 @@ Job openings: <img src="http://ahryczuk.github.io/files/new.pdf" height="40px" w
 ======
 
 * <a href="http://ahryczuk.github.io/postdoc.html"> Postdoc </a> <br>
-_2+1 year position starting in Fall 2022. Application deadline: 25.03.2022_ <br>
+_2+1 year position starting in Fall 2022. Application deadline: 8.04.2022_ <br>
 
 
 * <a href="http://ahryczuk.github.io/phdstudent.html"> PhD student </a> <br>
