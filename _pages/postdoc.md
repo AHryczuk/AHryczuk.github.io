@@ -34,9 +34,11 @@ Application:
 
 The application, consisting of a curriculum vitae and a brief research statement, should be sent to me with the subject „postdoc 2022”. In addition, please arrange for at minimum two (but preferably three) letters of recommendation. Any other info that you find relevant (e.g., code samples, links to presentations/outreach, other non-research projects) are also welcome!
 
-Link to official call for applications. [to appear soon!]
+Link to <a href="https://www.ncbj.gov.pl/en/praca/post-doc-theoretical-physics-bp2"> official call for applications</a>.
 
-**Deadline for the application: 25 March 2022**
+**Deadline for the application: 8 April 2022**
+
+
 
 Life in Warsaw:
 ======
