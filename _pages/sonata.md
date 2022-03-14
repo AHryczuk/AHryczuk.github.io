@@ -35,7 +35,13 @@ Phys.Rev.D 102 (2020) 4 [arXiv:2006.16139](https://arxiv.org/abs/2006.16139)
 _L. Darme, A. Hryczuk, D. Karamitros, L. Roszkowski_ <br>
 JHEP 1911 (2019) 159 [arXiv:1908.05685](https://arxiv.org/abs/1908.05685)
 
+* Impact of uncertainties in the halo velocity profile on direct detection of sub-GeV dark matter <br>
+_A. Hryczuk, E. Karukes, L. Roszkowski, M. Talia_ <br>
+JHEP 07 (2020) 081 [arXiv:2001.09156](https://arxiv.org/abs/2001.09156)
+
 Talks & presentations:
+* _Dark matter freeze-in from semi-production_, 4th Forward Physics Facility Meeting, 31 January - 1 February 2022 (online); Speaker: M. Laletin
+* _Dark matter freeze-in from semi-production_, 2021 TeV Particle Astrophysics Conference (TeVPA), 25-29 October 2021, Chengdu, China (online); Speaker: M. Laletin
 * _Dark matter freeze-in from semi-production_, poster at COSMO 21, Illinois (online); Presenter: M. Laletin
 * _Dark matter freeze-in from semi-production_, 17th TAUP 2021, Valencia, Spain (online); Speaker: M. Laletin
 * _Freeze-in of Dark Matter: recent developments_, invited seminar at University of Warsaw, Warsaw, Poland (online); 25.11.2021; Speaker: A. Hryczuk
