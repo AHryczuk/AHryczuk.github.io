@@ -38,6 +38,13 @@ Link to <a href="https://www.ncbj.gov.pl/en/praca/post-doc-theoretical-physics-b
 
 **Deadline for the application: 8 April 2022**
 
+Invasion of Ukraine:
+======
+<img src="http://ahryczuk.github.io/files/UAflag.png" height="420px" width="360px" border="1px">
+
+The horrific, inhumane war brought to the people of Ukraine by the Russian Federation left many of us trying our best to do whatever we can. If you are working/studing in Ukraine or a refugee meeting the formal requirement of a PhD in physics, then I strongly encourage you to apply. The advertised openning starts in Fall, but a shorter visit esentially immediately could be arranged as well.
+
+If you are from a distant part of the world and a bit worried of coming to Warsaw, I hear you. There is currently no direct military threat to Poland, an EU and NATO state, but concerns for the future are understendable.
 
 
 Life in Warsaw:
