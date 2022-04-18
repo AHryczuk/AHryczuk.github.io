@@ -12,6 +12,23 @@ author_profile: true
 </p>
 
 
+Impact of dark matter self-scattering on its relic abundance
+------
+_A. Hryczuk, M. Laletin_ <br>
+[arXiv:2204.07078](https://arxiv.org/abs/2204.07078)
+
+<p>
+ <div>
+    <p style="float: right;"><img src="http://ahryczuk.github.io/files/figVfp.pdf" height="280px" width="280px" border="1px"></p>
+    <p>
+
+    In this paper we study DM self-scatterings and their relevance for the calculation of DM relic abundance, even if they do not change the number of dark matter particles and as such have been previously neglected. We highlight the scenarios where the presence of self-scatterings has a significant impact on the effectiveness of annihilation processes through the modification of dark matter momentum distribution. We study a few example freeze-out scenarios involving resonant and sub-threshold annihilations, as well as a model with an additional source of dark matter particles from the decays of a heavier mediator state. Interestingly, when the calculation is performed at the level of dark matter momentum distribution function, we find that the injection of additional energetic dark matter particles onto the thermal population can lead to a decrease of its final relic abundance.
+    </p>
+ </div>
+</p>
+
+
+
 Dark matter freeze-in from semi-production
 ------
 _A. Hryczuk, M. Laletin_ <br>
