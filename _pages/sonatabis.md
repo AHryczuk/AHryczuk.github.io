@@ -23,4 +23,4 @@ _2+1 year position starting in Fall 2022. Application deadline: 8.04.2022_ <br>
 
 
 * <a href="http://ahryczuk.github.io/phdstudent.html"> PhD student </a> <br>
-_4 year position starting in Fall 2022_ <br>
+_4 year position starting in Fall 2022. Application deadline: 10.05.2022_<br>

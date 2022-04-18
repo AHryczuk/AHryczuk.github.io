@@ -39,7 +39,7 @@ Application:
 
 The application, consisting of a curriculum vitae and a brief description of research interests, should be sent to me with the subject "Phd 2022”. In addition, please arrange for at minimum two letters of recommendation. Any other info that you find relevant (e.g., code samples, links to presentations/outreach, other non-research projects) are also welcome!
 
-Link to official call for applications. [to appear soon!]
+<a href="https://gradschool.ncbj.gov.pl/requirements/"> Link</a> to official call for applications.
 
 
 Life in Warsaw:
