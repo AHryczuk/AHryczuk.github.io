@@ -16,6 +16,7 @@ Impact of dark matter self-scattering on its relic abundance
 ------
 _A. Hryczuk, M. Laletin_ <br>
 [arXiv:2204.07078](https://arxiv.org/abs/2204.07078)
+Phys.Rev.D 106 (2022) no.2 023007 
 
 <p>
  <div>
