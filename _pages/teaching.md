@@ -18,6 +18,7 @@ author_profile: true
 
 <h3> Z cyklu <a href="https://pl-pl.facebook.com/LetnieSpotkaniaZNauka/">Letnie Spotkania z Nauką</a></h3>
 
+* _"Dlaczego Wszechświat się rozszerza?"_, 16.07.2022, [wideo](https://www.facebook.com/events/565796981705462/?privacy_mutation_token=eyJ0eXBlIjowLCJjcmVhdGlvbl90aW1lIjoxNjYzMzIxOTkwLCJjYWxsc2l0ZV9pZCI6MzU5MDM2MDAxOTY4NDMyfQ%3D%3D&acontext=%7B%22ref_newsfeed_story_type%22%3A%22regular%22%2C%22source%22%3A%223%22%2C%22feed_story_type%22%3A%2222%22%2C%22action_history%22%3A%22[%7B%5C%22surface%5C%22%3A%5C%22newsfeed%5C%22%2C%5C%22mechanism%5C%22%3A%5C%22feed_story%5C%22%2C%5C%22extra_data%5C%22%3A[]%7D]%22%7D&__xts__[0]=68.ARDBXP0jkpyNEw5Nuj2D_4mOXrKMrbEiQ-xJhs9N39ZXrgo-jilGboWhmxZaUouECuoBxZIRl9lAGLV_WvvWzG_b5URtQd312QSUyXMNR1BFJznposfuMDogQEPgxYg28udDnhbXaah8D9a2sLKHCr27LbCNXT-QBnq3CtnWgPEUwA0-qAA5DnOk-OKME57t6c9RuNVx4CRQ4lwOILgDD4iIvHBvJCUGV4rru1w5xgRl7VI64zeoM67U2HE8QPNcoA9GD4XfxtERZH6Ywd3R5h--fi8Ft_xRRsYrZnj2v03hNUYQ97q1bw)
 * _"Co kryje się we wnętrzu czarnej dziury"_, 13.07.2019, [slajdy](http://ahryczuk.github.io/files/LSzN2019.pdf)
 * _"Entropia i strzałka czasu"_, 4.08.2018, [slajdy](http://ahryczuk.github.io/files/LSzN2018.pdf)
 * _"Z czego zbudowany jest Wszechświat"_, 17.08.2013, [slajdy](http://ahryczuk.github.io/files/LSzN2013.pdf)
