@@ -18,6 +18,10 @@ Results
 ======
 
 Main publications:
+* Impact of dark matter self-scattering on its relic abundance <br>
+_A. Hryczuk, M. Laletin_ <br>
+Phys.Rev.D 106 (2022) 2 [arXiv:2204.07078](https://arxiv.org/abs/2204.07078)
+
 * Dark matter freeze-in from semi-production <br>
 _A. Hryczuk, M. Laletin_ <br>
 JHEP 06 (2021) 026 [arXiv:2104.05684](https://arxiv.org/abs/2104.05684)

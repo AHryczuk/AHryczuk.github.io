@@ -16,7 +16,7 @@ Impact of dark matter self-scattering on its relic abundance
 ------
 _A. Hryczuk, M. Laletin_ <br>
 [arXiv:2204.07078](https://arxiv.org/abs/2204.07078)
-Phys.Rev.D 106 (2022) no.2 023007 
+Phys.Rev.D 106 (2022) no.2 023007
 
 <p>
  <div>
@@ -302,6 +302,14 @@ JHEP 1103 (2011) 069 [arXiv:1010.2172](https://arxiv.org/abs/1010.2172)
 
 Contributing Author Publications & Proceedings
 ====
+
+**Dark Matter Freeze-out and Freeze-in beyond Kinetic Equilibrium** <br>
+_A. Hryczuk_  <br>
+LHEP 2023 (2023)
+
+**The Forward Physics Facility at the High-Luminosity LHC** <br>
+_A. Hryczuk in Feng et al._  <br>
+J.Phys.G 50 (2023) 3, 030501
 
 **DRAKE: Dark matter Relic Abundance beyond Kinetic Equilibrium** <br>
 _A. Hryczuk_  <br>
