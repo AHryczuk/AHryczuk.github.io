@@ -3,7 +3,7 @@ title: "Dark Matter Freeze-out and Freeze-in Beyond Kinetic Equilibrium"
 collection: talks
 type: "Conference"
 venue: "SUSY 2022"
-date: 2022-05-26
+date: 2022-07-01
 location: "Ioannina, Greece"
 ---
 
