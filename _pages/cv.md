@@ -15,7 +15,7 @@ Education
 ======
 * 2007 - M.S. at **University of Warsaw**, Poland;  [(thesis, in Polish)](http://ahryczuk.github.io/files/1100-MGR-FZ-FTE-83121100158.pdf)
 * 2012 - Ph.D. at **SISSA** (International School for Advanced Studies), Trieste, Italy; [(thesis)](http://ahryczuk.github.io/files/PhD_Andrzej_Hryczuk.pdf)
-
+* 2023 - Habilitation at **NCBJ**, Poland;
 
 Work experience
 ======
