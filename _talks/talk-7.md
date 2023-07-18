@@ -3,7 +3,7 @@ title: "Dark matter production out of kinetic equilibrium: the latest developmen
 collection: talks
 type: "Conference"
 venue: "PASCOS"
-date: 2023-06-129
+date: 2023-06-29
 location: "Irvine CA, USA"
 ---
 
