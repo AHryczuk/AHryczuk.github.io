@@ -14,7 +14,7 @@ is a 3+1-year NCN (National Science Centre, Poland) founded grant for a project 
 
 The project started in July 2019 and was carried out by me (PI) and postdoc Maxim Laletin, together with number of external collaborators.
 
-Within this project the public code [DRAKE][https://ahryczuk.github.io/drake/] has been developed.
+Within this project the public code [DRAKE](https://ahryczuk.github.io/drake/) has been developed.
 
 Results
 ======
