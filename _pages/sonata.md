@@ -9,10 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-is a 3-year NCN (National Science Centre, Poland) founded grant for a project (No. 2018/31/D/ST2/00813) entitled:
+is a 3+1-year NCN (National Science Centre, Poland) founded grant for a project (No. 2018/31/D/ST2/00813) entitled:
 **"The impact of non-equilibrium and thermal effects on the evolution of Dark Matter in the Early Universe plasma"**
 
-The project started in July 2019 and is carried out by me (PI) and postdoc Maxim Laletin, together with number of external collaborators.
+The project started in July 2019 and was carried out by me (PI) and postdoc Maxim Laletin, together with number of external collaborators.
+
+Within this project the public code [DRAKE][https://ahryczuk.github.io/drake/] has been developed.
 
 Results
 ======
