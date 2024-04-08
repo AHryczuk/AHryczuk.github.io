@@ -12,6 +12,26 @@ author_profile: true
 </p>
 
 
+Phase transitions and gravitational waves in a model of Z3 scalar dark matter
+------
+_N. Benincasa, A. Hryczuk, M. Laletin, K. Kannike_ <br>
+[arXiv:2312.04627 ](https://arxiv.org/abs/2312.04627 )
+JHEP 02 (2024) 207
+
+<p>
+ <div>
+    <p style="float: right;"><img src="http://ahryczuk.github.io/files/Z3GW.pdf" height="280px" width="280px" border="1px"></p>
+    <p>
+
+    Theories with more than one scalar field often exhibit phase transitions producing potentially detectable gravitational wave (GW) signal. In this work we study the semi-annihilating Z3 dark matter model, whose dark sector comprises an inert doublet and a complex singlet, and assess its prospects in future GW detectors. Without imposing limits from requirement of providing a viable dark matter candidate, i.e. taking into account only other experimental and theoretical constraints, we find that the first order phase transition in this model can be strong enough to lead to a detectable signal. However, direct detection and the dark matter thermal relic density constraint calculated with the state-of-the-art method including the impact of early kinetic decoupling, very strongly limit the parameter space of the model explaining all of dark matter and providing observable GW peak amplitude. Extending the analysis to underabundant dark matter thus reveals region with detectable GWs from a single-step or multi-step phase transition.
+
+
+    </p>
+ </div>
+</p>
+
+
+
 Impact of dark matter self-scattering on its relic abundance
 ------
 _A. Hryczuk, M. Laletin_ <br>
