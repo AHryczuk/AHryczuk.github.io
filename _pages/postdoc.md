@@ -37,6 +37,8 @@ Application:
 
 The application, consisting of a curriculum vitae and a brief research statement, should be sent to me with the subject „Postdoc 2025”. In addition, please arrange for at minimum two (but preferably three) letters of recommendation. Any other info that you find relevant (e.g., code samples, links to presentations/outreach, other non-research projects) are also welcome!
 
+ Link to <a href="https://https://www.ncbj.gov.pl/en/praca/postdoc-bp2"> official call for applications.</a>
+
 
 **Deadline for the application: 1 December 2024**
 
