@@ -13,4 +13,6 @@ is a 5-year NCN (National Science Centre, Poland) founded grant for a project  e
 **"Dark matter and baryogenesis within multicomponent dark sectors and nonstandard
 cosmological models"**.
 
-The project is scheduled to start in Fall 2022 and will be carried out by me (PI) two postdocs and one PhD student, together with number of external collaborators.
+The project started in Fall 2022 and is be carried out by me (PI) one postdoc and one PhD student, together with number of external collaborators.
+
+New: [postdoc](http://ahryczuk.github.io/postdoc) position opening starting Fall 2025!
