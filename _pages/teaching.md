@@ -26,6 +26,7 @@ author_profile: true
 
 <h3>W mediach</h3>
 
+* Udział w programie [Radio Naukowe](https://open.spotify.com/episode/2m0NntuW0lPNlv9SfD6qTR) 
 * Wywiad w Jedynce Polskiego Radia, program [EUREKA](https://www.polskieradio.pl/7/5098/Artykul/2854787,Ciemna-materia-Jedna-z-najwiekszych-zagadek-kosmologii-i-astrofizyki)
 
 <h3>Artykuły popularnonaukowe</h3>
