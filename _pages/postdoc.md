@@ -12,7 +12,10 @@ redirect_from:
 Do you want to pursue novel research at the _intersection of particle physics and cosmology_? <br><br>
 Join me to work on the project related to interconnections between dark matter production and baryogenesis, phenomenology of multi-component dark sectors and much more!
 
-Some information about Theoretical High Energy Physics group at <a href="https://www.ncbj.gov.pl/en"> NCBJ </a> can be found <a href="https://www.ncbj.gov.pl/en/particle-theory-group"> here</a>. The offices of the Department are located on the Ochota campus not far from the city centre, neighbouring the Physics Department of the University.
+Some information about Theoretical High Energy Physics group at <a href="https://www.ncbj.gov.pl/en"> NCBJ </a>:
+* Members: Leszek Roszkowski, Kamila Kowalska, Enrico Maria Sessolo, Andrzej Hryczuk, Wojciech Kotlarski and Sebastian Trojanowski + several postdocs and Phd Students
+* Research topics: dark matter, collider phenomenology, asymptotic safety, early universe, flavor and more
+* The offices of the Department are located on the Ochota campus not far from the city center, neighbouring the Physics Department of the University.
 
 Contract:
 --------
@@ -34,7 +37,6 @@ Application:
 
 The application, consisting of a curriculum vitae and a brief research statement, should be sent to me with the subject „Postdoc 2025”. In addition, please arrange for at minimum two (but preferably three) letters of recommendation. Any other info that you find relevant (e.g., code samples, links to presentations/outreach, other non-research projects) are also welcome!
 
-# Link to <a href="https://www.ncbj.gov.pl/en/praca/post-doc-theoretical-physics-bp2"> official call for applications</a>.
 
 **Deadline for the application: 1 December 2024**
 
