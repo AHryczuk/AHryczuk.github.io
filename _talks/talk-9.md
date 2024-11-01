@@ -2,7 +2,7 @@
 title: "Towards robust predictions for thermal production of multicomponent dark matter"
 collection: talks
 type: "Seminar"
-venue: "DMNet"
+venue: "FUW"
 date: 2024-04-04
 location: "Warsaw, Poland"
 ---
