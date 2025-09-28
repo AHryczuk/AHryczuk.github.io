@@ -11,12 +11,49 @@ author_profile: true
 
 </p>
 
+Freezing-in cannibals with low-reheating temperature
+------
+_N. Bernal, E. Cervantes, K.Deka, A. Hryczuk_ <br>
+[arXiv:2506.09155](https://arxiv.org/abs/2506.09155)
+JHEP 09 (2025) 083
+
+<p>
+ <div>
+    <p style="float: right;"><img src="http://ahryczuk.github.io/files/4a.pdf" height="280px" width="280px" border="1px"></p>
+    <p>
+
+    The freeze-in mechanism provides a compelling framework for dark matter
+(DM) production, particularly suited to scenarios involving feeble interactions with the Standard Model (SM). In this work, we highlight a possible interplay of a non-instantaneous reheating phase and dark sector self-interactions — specifically 2 →3 and 3 →2 cannibalization processes. As an example we study the freeze-in production of a complex scalar DM candidate stabilized by a Z3 symmetry permitting cubic self-couplings, enabling number-changing interactions that drive internal thermalization and significantly modify the dark sector number density and temperature evolution. We numerically solve the coupled Boltzmann equations for the DM number density and temperature alongside the evolving SM bath, accurately capturing the dynamics of a prolonged reheating epoch. Our analysis reveals a rich and distinctive phenomenology arising from the interplay between the Universe’s thermal history, Higgs portal–mediated production, and cannibalistic
+self-interactions. Compared to scenarios with instantaneous reheating or negligible self-interactions, our framework opens new viable regions in parameter space—particularly for light DM—potentially within reach of future probes.
+
+
+    </p>
+ </div>
+</p>
+
+Conversions in two-component dark sectors: a phase space level analysis
+------
+_S. Chatterjee, A. Hryczuk_ <br>
+[arXiv:2502.08725](https://arxiv.org/abs/2502.08725)
+JHEP 07 (2025) 279
+
+<p>
+ <div>
+    <p style="float: right;"><img src="http://ahryczuk.github.io/files/BM1D_conversions_v2.pdf" height="280px" width="280px" border="1px"></p>
+    <p>
+
+    Conversions between the states in the dark sector affect not only their number densities but also their momentum distributions. In this work we study a phenomenologically motivated two-component dark matter scenario, based on the Coy Dark Matter model, in order to quantify the effect of conversions on departure from kinetic equilibrium and consequently the relic abundance. We perform a detailed numerical analysis at the level of the phase space distributions of dark sector particles, implementing all the relevant processes, including conversions, elastic scatterings and annihilations. Focusing on the parameter regions that lead to the observed relic abundance and provide a good fit to the Galactic Centre excess, we find that departure from kinetic equilibrium can alter the predictions for the total abundance by more than 100%, while in most of the interesting parameter space being in the range from around -20% to 50%. The effect on each dark matter constituent separately can be much larger, even up to an order of magnitude, which can significantly affect the expected present-day gamma ray flux, and consequently phenomenology of the model.
+
+
+    </p>
+ </div>
+</p>
 
 Freezing-in Cannibal Dark Sectors
 ------
 _E. Cervantes, A. Hryczuk_ <br>
-[arXiv:2407.12104 ](https://arxiv.org/abs/2407.12104 )
-JHEP xx (2024) xxx
+[arXiv:2407.12104](https://arxiv.org/abs/2407.12104)
+JHEP 11 (2024) 050
 
 <p>
  <div>

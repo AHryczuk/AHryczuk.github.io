@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Full CV can be dowloaded [here](http://ahryczuk.github.io/files/CV.pdf) _(updated July 2023)_
+Full CV can be dowloaded [here](http://ahryczuk.github.io/files/CV.pdf) _(updated Septermber 2025)_
 
 Education
 ======
