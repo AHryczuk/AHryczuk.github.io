@@ -11,6 +11,27 @@ author_profile: true
 
 </p>
 
+
+Exploring non-equilibrium effects in sequential freeze-in
+------
+_S. Chatterjee, A. Hryczuk_ <br>
+[arXiv:2604.14688](https://arxiv.org/abs/2604.14688)
+
+<p>
+ <div>
+    <p style="float: right;"><img src="http://ahryczuk.github.io/files/260414688.pdf" height="280px" width="280px" border="1px"></p>
+    <p>
+
+    Freeze-in of multi-component dark sectors is governed not only by the inter-
+action with the thermal plasma, but also by their internal dynamics. Full thermalisation
+within the dark sector is not guaranteed, raising the question of impact of departures from local thermal equilibrium onto the evolution and ultimately relic abundance and momentum distribution of dark matter. In this work we explore this question in a minimal two-scalar model, which can give rise to observable signatures in indirect detection and long-lived particle searches at forward physics experiments. Focusing on the phenomenologically viable regions, we analyse the impact of non-thermal evolution on the dark matter
+abundance, finding deviations of up to an order of magnitude between the full phase-space treatment and the traditional number-density approach. Our results highlight the importance of phase-space level computation for accurate freeze-in predictions and further motivate dedicated numerical tools for studying the evolution of multi-component dark sectors at the phase space level.
+
+
+    </p>
+ </div>
+</p>
+
 Freezing-in cannibals with low-reheating temperature
 ------
 _N. Bernal, E. Cervantes, K.Deka, A. Hryczuk_ <br>

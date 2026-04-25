@@ -24,4 +24,6 @@ Work experience
 * Oct. 2012 - Aug. 2015: _Postdoctoral Fellow_, **TUM, Munich, Germany**
 * Sep. 2015 - Nov. 2015: _Postdoctoral Fellow_, **NCBJ**, Warsaw, Poland
 * Dec. 2015 - Nov. 2018: _Postdoctoral Fellow_, **University of Oslo**, Norway
-* Nov. 2018 - present: _Assistant Professor (Adiunkt)_, **NCBJ**, Warsaw, Poland
+* Nov. 2018 - May 2025: _Assistant Professor (Adiunkt)_, **NCBJ**, Warsaw, Poland
+* May 2025 - present: _Associate Professor (prof. NCBJ)_, **NCBJ**, Warsaw, Poland
+* Feb 2026 - present: _Academic Associate Editor_, **PRD**
