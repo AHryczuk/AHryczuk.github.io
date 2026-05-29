@@ -3,7 +3,7 @@ title: "A case for calculating dark matter momentum distribution"
 collection: talks
 type: "Seminar"
 venue: "NYU"
-date: 2025-05-08
+date: 2026-05-08
 location: "New York, USA"
 ---
 
